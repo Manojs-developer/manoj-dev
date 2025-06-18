@@ -62,17 +62,7 @@
 
 ---
 
-<div align="center">
 
-## 📊 GitHub Statistics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manoj-dev&show_icons=true&theme=radical&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manoj-dev&theme=radical&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-dev&layout=compact&theme=radical&hide_border=true" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=manoj-dev&theme=redical&hide_border=true" />
-
-</div>
 
 ---
 
@@ -107,23 +97,10 @@
 
 ---
 
-<div align="center">
-
-## 💡 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
 
 ---
 
-<div align="center">
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/manoj-dev/manoj-dev/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
