@@ -24,7 +24,7 @@
 💼 **Expertise:** PHP, Laravel, MySQL Development  
 🎯 **Goal:** Building scalable and innovative web applications  
 🤝 **Collaboration:** Always open to exciting web development projects  
-📧 **Contact:** [manoj@example.com](mailto:manoj@example.com)  
+📧 **Contact:** [inbox.manojs@gmail.com](mailto:inbox.manojs@gmail.com)  
 ⚡ **Fun Fact:** I debug with coffee and solve problems with creativity!
 
 <br clear="both"/>
