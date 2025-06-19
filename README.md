@@ -2,7 +2,7 @@
   
 # 🚀 Hi there, I'm Manoj! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-### 💫 PHP Laravel Developer | 1.8+ Years Experience | Full Stack Web Developer
+### 💫 PHP Laravel Developer | 1.8+ Years Experience | Full Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=PHP+Laravel+Developer;1.8%2B+Years+Experience;Full+Stack+Web+Developer;RESTful+API+Specialist;Payment+Gateway+Expert" alt="Typing SVG" />
 
