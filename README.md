@@ -97,7 +97,6 @@
 
 🔹 **1.8+ Years** of hands-on PHP Laravel development experience  
 🔹 **Secure RESTful APIs** development and integration  
-🔹 **Payment Gateway Integration** expertise  
 🔹 **Complete Server Management** using cPanel  
 🔹 **Database Architecture** and optimization  
 🔹 **Code Debugging & Troubleshooting** proficiency  
